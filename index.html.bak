@@ -5,7 +5,7 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Rekha - personal portfolio</title>
+  <title>Jack - personal portfolio</title>
 
   <!-- 
     - favicon
@@ -37,13 +37,14 @@
     <div class="container">
 
       <h1 class="h1 logo">
-        <a href="#">Rekha<span>.</span></a>
+        <a href="#">Jack<span>.</span></a>
       </h1>
 
       <div class="navbar-actions">
 
         <select name="language" id="lang">
           <option value="en">En</option>
+          <option value="ar">Ar</option>
         </select>
 
         <button class="theme-btn" aria-label="Change Theme" title="Change Theme" data-theme-btn>
@@ -753,7 +754,9 @@
               <div class="wrapper">
                 <h3 class="h4 contact-item-title">Email:</h3>
 
-                <a href="rekhamca2011@gmail.com" class="contact-info">rekhamca2011@gmail.com</a>
+                <a href="mailto:info@jack.com" class="contact-info">info@jack.com</a>
+
+                <a href="mailto:support@jack.com" class="contact-info">support@jack.com</a>
               </div>
 
             </li>
